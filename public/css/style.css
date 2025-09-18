@@ -15,7 +15,7 @@ body {
 }
 
 .navbar {
-  background: #1976d2;
+  background: rgb(187, 220, 211);
   color: #fff;
   padding: 0.5rem 0;
 }
@@ -52,7 +52,7 @@ body {
 
 h1 {
   margin-top: 0;
-  color: #1976d2;
+  color: black;
 }
 
 .table {
@@ -68,7 +68,7 @@ h1 {
 }
 .table th {
   background: #e3f2fd;
-  color: #1976d2;
+  color: black;
 }
 .table tr:nth-child(even) {
   background: #f1f8ff;
@@ -87,11 +87,11 @@ h1 {
   transition: background 0.2s, color 0.2s;
 }
 .btn-primary {
-  background: #1976d2;
+  background: black;
   color: #fff;
 }
 .btn-primary:hover {
-  background: #125ea2;
+  background: black;
 }
 .btn-warning {
   background: #ffb300;
@@ -101,7 +101,7 @@ h1 {
   background: #ff8f00;
 }
 .btn-danger {
-  background: #e53935;
+  background: #a28685;
   color: #fff;
 }
 .btn-danger:hover {
@@ -133,12 +133,12 @@ h1 {
   box-sizing: border-box;
 }
 .form-control:focus {
-  border-color: #1976d2;
+  border-color: #88c5c6;
   outline: none;
 }
 
 .footer {
-  background: #1976d2;
+  background: #8181a8;
   color: #fff;
   text-align: center;
   padding: 18px 0 10px 0;
